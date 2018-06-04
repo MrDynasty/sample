@@ -110,6 +110,16 @@ footer {
   }
 }
 
+
+/* header */
+
+#logout {
+  cursor: default;
+  &:hover {
+    background-color: transparent;
+  }
+}
+
 /* forms */
 input, textarea, select, .unedittable-input {
 	border: 1px solid #bbb;
